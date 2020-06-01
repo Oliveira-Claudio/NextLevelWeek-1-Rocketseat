@@ -1,44 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto Next Level Week #1
 
-## Available Scripts
+O que é o Next Level Week?
 
-In the project directory, you can run:
+O NLW é uma experiência online com Existe um longo caminho a ser
+muito conteúdo prático, desafios e percorrido e sua evolução nunca pode
+hacks que vão te ajudar a avançar para parar. Mas você vai ganhar muito tempo
+o próximo nível. se tiver foco apenas naquilo que é
+importante para dar o próximo passo na
+A jornada do dev é feita de etapas e de
+sua carreira.
+aprendizado contínuo. E cada uma
+dessas etapas exige habilidades e Por isso é tão importante ter um
+conhecimentos específicos, por isso a método, um passo a passo que te guie
+melhor forma de acelerar sua evolução direto ao ponto até os seus objetivos.
+é entender exatamente qual é o seu
+momento, seu contexto e seus É aí que entra a Rocketseat, para te
+objetivos. ajudar a evoluir na direção certa e na
+velocidade que a tecnologia exige. E
+Por exemplo, nenhuma empresa vai te dessa forma você vai se destacar e ter
+dar aplicações críticas para desenvolver acesso às melhores oportunidades.
+no seu primeiro ano de experiência.
+Assim como no décimo ano de Então durante o NLW você vai ser
+experiência vão exigir que você domine guiado através do nosso método para
+assuntos mais avançados como aprender novas ferramentas, conhecer
+arquitetura. novas tecnologias e descobrir hacks
+que vão impulsionar a sua carreira.
+Então o que exatamente você precisa
+saber para avançar para o próximo
+nível?
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+By Rocketseat
